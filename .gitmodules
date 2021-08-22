@@ -1,0 +1,3 @@
+[submodule "libs/clipit"]
+	path = libs/clipit
+	url = https://github.com/dribnet/clipit
